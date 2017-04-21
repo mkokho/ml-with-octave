@@ -1,0 +1,8 @@
+-----------------------------
+   Feature Normalization
+-----------------------------
+
+It is an important step when dealing with learning algorithms.
+See file ex7/featureNormalize.m
+ - first compute mean of each feature
+ - then scale it [-1; 1] by dividind on X_max - X_min
